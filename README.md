@@ -16,3 +16,5 @@ echo "SHODAN_KEY" > api.txt
 docker build -t memcrashed .
 
 docker run -it memcrashed
+
+python3 thaipakdeedos
